@@ -5,15 +5,15 @@ A multi-tasking whatsapp  bot made just for Developers
 
 **Installation : **
 
-######clone the repository
+###### clone the repository
 ```
 git clone https://github.com/cybercyphers/cypher-md.git
 ```
-######change directory into the cloned repo
+###### change directory into the cloned repo
 ```
 cd cypher-md
 ```
-######install dependencies and start
+###### install dependencies and start
 ```
 npm install && npm start
 ```
