@@ -15,6 +15,13 @@ git clone https://github.com/cybercyphers/cypher-md.git
 ```
 cd cypher-md
 ```
+###### read comments and go according to it
+```
+nano config.json 
+```
+###### save file 
+---
+
 ###### install dependencies and start
 ```
 npm install && npm start
