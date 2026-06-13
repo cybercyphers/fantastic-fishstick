@@ -2,7 +2,9 @@
 ---
 A multi-tasking whatsapp  bot made just for Developers
 
-
+```
+version 1.0.0 Beta
+```
 **Installation:**
 
 ###### clone the repository
